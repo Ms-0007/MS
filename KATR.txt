@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 asdas
 mayank 
 sampada
@@ -7,3 +8,6 @@ nancy
 sneha
 >>>>>>> 26e0a8f... nancy commit
 this is sampada
+=======
+This is Sneha
+>>>>>>> cc4bd74... sneha commit
